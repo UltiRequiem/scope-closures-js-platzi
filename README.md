@@ -1,1 +1,1 @@
-# scope-closures-js-platzi
+# Scope and Closures in Javascript

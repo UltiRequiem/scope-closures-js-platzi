@@ -1,0 +1,22 @@
+{
+  "name": "scope-closures-js-platzi",
+  "version": "1.0.0",
+  "description": "Platzi Course",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UltiRequiem/scope-closures-js-platzi.git"
+  },
+  "keywords": [
+    "platzi",
+    "closures",
+    "scope"
+  ],
+  "author": "Eliaz Bobadilla <eliaz.bobadilladev@gmail.com> (https://github.com/UltiRequiem)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UltiRequiem/scope-closures-js-platzi/issues"
+  },
+  "homepage": "https://github.com/UltiRequiem/scope-closures-js-platzi#readme"
+}
