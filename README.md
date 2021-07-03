@@ -1,5 +1,7 @@
 # Scope and Closures in Javascript
 
+![Wall](./wall.png)
+
 ## Other Resources
 
 - [Closures by Sacha](https://youtu.be/JXG_gQ0OF74)

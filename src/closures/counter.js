@@ -1,7 +1,5 @@
-const buildCount = (i) => () => {
-  // eslint-disable-next-line no-param-reassign
-  console.log(i++);
-};
+// eslint-disable-next-line no-param-reassign
+const buildCount = (i) => () => console.log(i++);
 
 const myCount = buildCount(1);
 myCount(); // 1
