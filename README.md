@@ -1,0 +1,1 @@
+# scope-closures-js-platzi
