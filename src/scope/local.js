@@ -1,11 +1,9 @@
-const hello = "Another hello";
+const hello = 'Another hello';
 
 const helloWorld = () => {
-  const scope = "Hello, I am just a local variable.";
-  const func = () => {
-    return scope;
-  };
-  console.log(func())
+  const scope = 'Hello, I am just a local variable.';
+  const func = () => scope;
+  console.log(func());
 };
 
 helloWorld();

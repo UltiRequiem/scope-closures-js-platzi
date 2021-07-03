@@ -1,6 +1,6 @@
-var MY_MESSAGE = "Closures and Scope";
-let world = "World";
-const helloWorld = "Hello World";
+const MY_MESSAGE = 'Closures and Scope';
+const world = 'World';
+const helloWorld = 'Hello World';
 
 const myFunction = () => {
   console.log(MY_MESSAGE);
@@ -8,9 +8,9 @@ const myFunction = () => {
   console.log(helloWorld);
 };
 
-var globalVar = "Global";
+let globalVar = 'Global';
 const hiWorld = () => {
-  globalVar = "I am global.";
+  globalVar = 'I am global.';
 };
 
 hiWorld();
