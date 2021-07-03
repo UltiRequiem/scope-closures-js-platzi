@@ -1,5 +1,9 @@
-const MY_MESSAGE = 'Closures and Scope';
-const world = 'World';
+/* eslint-disable prefer-const */
+/* eslint-disable no-unused-vars */
+/* eslint-disable no-var */
+
+var MY_MESSAGE = 'Closures and Scope';
+let world = 'World';
 const helloWorld = 'Hello World';
 
 const myFunction = () => {
@@ -8,7 +12,7 @@ const myFunction = () => {
   console.log(helloWorld);
 };
 
-let globalVar = 'Global';
+var globalVar = 'Global';
 const hiWorld = () => {
   globalVar = 'I am global.';
 };
